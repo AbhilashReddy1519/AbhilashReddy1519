@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=AbhilashReddy1519&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=AbhilashReddy1519&theme=vision-friendly-dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhilashReddy1519&theme=vision-friendly-dark&layout=compact&size_weight=0.5&count_weight=0.5)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhilashReddy1519&theme=darkhub&no-frame=true&margin-w=15)](https://github.com/AbhilashReddy1519/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
