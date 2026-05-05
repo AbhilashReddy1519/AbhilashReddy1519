@@ -1,3 +1,4 @@
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
 -👋 Hi, I’m @AbhilashReddy1519  
 About Me  
 -🌟 Aspiring Computer Science Engineer  
@@ -33,6 +34,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhilashReddy1519&icon=9&color=9)](https://visitcount.itsvg.in)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhilashReddy1519&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhilashReddy1519&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhilashReddy1519&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhilashReddy1519&theme=highcontrast)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhilashReddy1519&theme=highcontrast&utcOffset=8)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient)
+![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer)
