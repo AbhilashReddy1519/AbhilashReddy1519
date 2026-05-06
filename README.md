@@ -1,4 +1,5 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
+![](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8E2DE2,100:4A00E0)
+<h1 align="center">Abhilash Reddy</h1>
 -👋 Hi, I’m @AbhilashReddy1519  
 About Me  
 -🌟 Aspiring Computer Science Engineer  
