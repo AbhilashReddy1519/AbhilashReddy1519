@@ -1,5 +1,16 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8E2DE2,100:4A00E0)
-<h1 align="center">Abhilash Reddy</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Single&size=50&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&background=FF1F5A00&width=700&height=100&lines=Hi+I'm+Abhilash+Reddy" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Building+Useful+Software" alt="Typing SVG" />
+  </a>
+</p>
+
 -👋 Hi, I’m @AbhilashReddy1519  
 About Me  
 -🌟 Aspiring Computer Science Engineer  
